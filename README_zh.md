@@ -2,7 +2,7 @@
 
 [README](README.md) | [中文文档](README_zh.md)
 
-一个简单的使用 vite-plugin-monkey 的示例
+一个简单的使用 [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) 的示例
 
 ## 用法
 
