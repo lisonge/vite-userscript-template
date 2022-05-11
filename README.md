@@ -4,7 +4,7 @@
 
 a simple example with [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey)
 
-## useage
+## usage
 
 ```shell
 git clone https://github.com/lisonge/vite-userscript-template.git
