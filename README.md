@@ -1,5 +1,7 @@
 # vite-userscript-template
 
+[README](README.md) | [中文文档](README_zh.md)
+
 a simple example with vite-plugin-monkey
 
 ## useage
