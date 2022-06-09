@@ -4,13 +4,13 @@ specifiers:
   '@types/node': '14'
   typescript: 4.6.4
   vite: 2.9.9
-  vite-plugin-monkey: 0.2.11
+  vite-plugin-monkey: 0.2.12
 
 devDependencies:
   '@types/node': 14.18.17
   typescript: 4.6.4
   vite: 2.9.9
-  vite-plugin-monkey: 0.2.11_vite@2.9.9
+  vite-plugin-monkey: 0.2.12_vite@2.9.9
 
 packages:
 
@@ -364,8 +364,8 @@ packages:
     hasBin: true
     dev: true
 
-  /vite-plugin-monkey/0.2.11_vite@2.9.9:
-    resolution: {integrity: sha512-1KzMj13C+udIyCsq+uifipLm7gjXXV0DgHnudei4tzOH8cuTNJDXPNItmVyYiJSvpbLkfKcxSBlo/bzY+wQrKQ==}
+  /vite-plugin-monkey/0.2.12_vite@2.9.9:
+    resolution: {integrity: sha512-UC9IAoqTp6UbBKEQWSUec66tJCQ0teedWNJ673gmJ7/Smkh45BUsh5FNICBK0LLc1n5fGuIGcUyDndWzq+7oXw==}
     engines: {node: ^14.13.1 || >= 16, pnpm: ^6.0.0}
     peerDependencies:
       '@types/greasemonkey': ^4.0.2

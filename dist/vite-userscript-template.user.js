@@ -13,6 +13,8 @@
 // @match        https://www.google.com/
 // ==/UserScript==
 
+// use vite-plugin-monkey@0.2.12 at 2022-06-09T08:45:10.160Z
+
 ;(({ cssTextList = [] }) => {
   cssTextList.forEach((s) => {
     const style = document.createElement("style");
