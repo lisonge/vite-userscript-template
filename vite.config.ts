@@ -9,7 +9,7 @@ export default defineConfig({
         monkeyPlugin({
             entry: 'src/main.ts',
             userscript: {
-                icon: 'https://dev.songe.li/favicon.svg',
+                icon: 'https://i.songe.li/favicon.svg',
                 namespace: 'npm/vite-plugin-monkey',
                 // https://www.google.com/
                 match: ['https://www.google.com/'],
