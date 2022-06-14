@@ -5,7 +5,7 @@
 // @author       author
 // @description  description
 // @license      ISC
-// @icon         https://dev.songe.li/favicon.svg
+// @icon         https://i.songe.li/favicon.svg
 // @homepage     https://github.com/lisonge/vite-userscript-template#readme
 // @homepageURL  https://github.com/lisonge/vite-userscript-template#readme
 // @source       https://github.com/lisonge/vite-userscript-template.git
@@ -13,7 +13,7 @@
 // @match        https://www.google.com/
 // ==/UserScript==
 
-// use vite-plugin-monkey@0.2.12 at 2022-06-09T08:45:10.160Z
+// use vite-plugin-monkey@0.2.13 at 2022-06-14T14:39:11.074Z
 
 ;(({ cssTextList = [] }) => {
   cssTextList.forEach((s) => {
@@ -30,7 +30,7 @@
 
 (function() {
   "use strict";
-  var style = "";
+  var style = /* @__PURE__ */ (() => "img[alt='Google'] {\r\n    height: 120px;\r\n    max-width: none;\r\n    max-height: none;\r\n}\r\n")();
   const logoElement = document.querySelector(`img[alt='Google']`);
   if (logoElement) {
     logoElement.src = "https://cdn.jsdelivr.net/gh/33kk/uso-archive@flomaster/data/screenshots/173462_after.gif";
