@@ -1,5 +1,7 @@
 # vite-userscript-template
 
+**此项目已废弃**, 建议使用 <https://github.com/lisonge/create-monkey>
+
 [README](README.md) | [中文文档](README_zh.md)
 
 一个简单的使用 [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) 的示例

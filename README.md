@@ -1,5 +1,7 @@
 # vite-userscript-template
 
+**deprecated**, suggested use <https://github.com/lisonge/create-monkey>
+
 [README](README.md) | [中文文档](README_zh.md)
 
 a simple example with [vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey)
