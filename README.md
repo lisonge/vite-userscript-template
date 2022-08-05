@@ -1,6 +1,6 @@
 # vite-userscript-template
 
-**deprecated**, suggested use <https://github.com/lisonge/create-monkey>
+**deprecated**, suggested use <https://github.com/lisonge/vite-plugin-monkey/tree/main/packages/create-monkey>
 
 [README](README.md) | [中文文档](README_zh.md)
 
